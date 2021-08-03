@@ -1,1 +1,1 @@
-# -VertMagazineStore
+# VertMagazineStore
